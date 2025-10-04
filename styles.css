@@ -7,11 +7,6 @@ body {
     width: 150px;
 }
 
-.avatar:hover {
-    box-shadow: #403d39 0 0 5px;
-    transition: 0.2s;
-}
-
 .card {
     width: 450px;
     margin: 0 auto;
